@@ -3,11 +3,10 @@
 Here are some ideas to get you started:
 -->
 
-👊  I want to be **`Data Scientist`** before `2022`
+👊  I want to be **`Data Scientist`** 
 - 🔭 I’m currently working on `Teamlab`
-- I majored in `Industrial Engineering` & `Data Science`
-- 🌱 I’m currently learning `ML & DL` 
-- 💬 Ask me about nothing zzz 
+- I majored in `Industrial AI` & `Data Science`
+- 🌱 I’m currently learning `ML & DL & RL` 
 
 
 
